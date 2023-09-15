@@ -6,7 +6,7 @@ I'm a self-taught backend developer from 🇲🇦
 
   * 🔭 I’m currently working on backwards engeneering
   * 🌱 I’m currently learning C++
-  * 📫 How to reach me: Discord [Ape#0826](https://discord.gg/E9fNwM2Y/)
+  * 📫 How to reach me: Discord ap_e
 <br />
 <h2> Skills </h2>
 <a href= https://github.com/Aperre?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
