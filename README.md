@@ -4,7 +4,7 @@ I'm a self-taught backend developer from 🇲🇦
 
 <h2>About me:</h2>
 
-  * 🔭 I’m currently working on backwards engeneering
+  * 🔭 I’m currently working on backwards engineering
   * 🌱 I’m currently learning C++
   * 📫 How to reach me: Discord ap_e
 <br />
