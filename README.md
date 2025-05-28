@@ -9,11 +9,11 @@ I'm a self-taught backend developer from 🇲🇦
   * 📫 How to reach me: Discord ap_e
 <br />
 <h2> Skills </h2>
-<a href= https://github.com/Aperre?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/Aperre?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Aperre?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/Aperre?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/Aperre?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/Aperre/Aperre/main/img/node-js-seeklogo.svg'> </a>
+<a href= https://github.com/Aperre?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://ape.revizion.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpython.8844ed06.png&w=32&q=75'> </a>
+<a href= https://github.com/Aperre?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://ape.revizion.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnode.ec18d39f.png&w=32&q=75'> </a>
+<a href= https://github.com/Aperre?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' height='32px' src ='https://ape.revizion.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcpp.fae04775.png&w=32&q=75'> </a>
+<a href= https://github.com/Aperre?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' height='32px' src ='https://ape.revizion.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjava.58d92fdd.png&w=640&q=75'> </a>
+<a href= https://github.com/Aperre?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://ape.revizion.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjavascript.c1c7776c.png&w=256&q=75'> </a>
 
 
 <br />
