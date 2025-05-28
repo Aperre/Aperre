@@ -22,6 +22,6 @@ I'm a self-taught backend developer from 🇲🇦
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-git-main-aperre.vercel.app/api?username=Aperre&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-git-main-aperre.vercel.app/api/top-langs/?username=Aperre&layout=compact&theme=tokyonight&exclude_repo=github-readme-stats" />
 </a>
